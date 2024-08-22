@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-21T11:23:05 IST" name="Suite" finished-at="2024-08-21T11:24:58 IST" duration-ms="113614">
+    <groups>
+    </groups>
+    <test started-at="2024-08-21T11:23:05 IST" name="Test" finished-at="2024-08-21T11:24:58 IST" duration-ms="113614">
+      <class name="com.hybrid.test.TC_002_Login">
+        <test-method is-config="true" signature="initialzedriver()[pri:0, instance:com.hybrid.test.TC_002_Login@333291e3]" started-at="2024-08-21T11:23:05 IST" name="initialzedriver" finished-at="2024-08-21T11:23:26 IST" duration-ms="20660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialzedriver -->
+        <test-method signature="Verify_InvalidCredential()[pri:0, instance:com.hybrid.test.TC_002_Login@333291e3]" started-at="2024-08-21T11:23:26 IST" name="Verify_InvalidCredential" finished-at="2024-08-21T11:23:27 IST" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_InvalidCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hybrid.test.TC_002_Login@333291e3]" started-at="2024-08-21T11:23:27 IST" name="tearDown" finished-at="2024-08-21T11:23:27 IST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialzedriver()[pri:0, instance:com.hybrid.test.TC_002_Login@333291e3]" started-at="2024-08-21T11:23:27 IST" name="initialzedriver" finished-at="2024-08-21T11:24:07 IST" duration-ms="39549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialzedriver -->
+        <test-method signature="Verify_ValidCredential()[pri:0, instance:com.hybrid.test.TC_002_Login@333291e3]" started-at="2024-08-21T11:24:07 IST" name="Verify_ValidCredential" finished-at="2024-08-21T11:24:10 IST" duration-ms="2979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_ValidCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hybrid.test.TC_002_Login@333291e3]" started-at="2024-08-21T11:24:10 IST" name="tearDown" finished-at="2024-08-21T11:24:10 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hybrid.test.TC_002_Login -->
+      <class name="com.hybrid.test.TC_001_AccountRegistration">
+        <test-method is-config="true" signature="initialzedriver()[pri:0, instance:com.hybrid.test.TC_001_AccountRegistration@4fb0f2b9]" started-at="2024-08-21T11:24:10 IST" name="initialzedriver" finished-at="2024-08-21T11:24:25 IST" duration-ms="14261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialzedriver -->
+        <test-method signature="Verify_InvalidCredential()[pri:0, instance:com.hybrid.test.TC_001_AccountRegistration@4fb0f2b9]" started-at="2024-08-21T11:24:25 IST" name="Verify_InvalidCredential" finished-at="2024-08-21T11:24:26 IST" duration-ms="1075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_InvalidCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hybrid.test.TC_001_AccountRegistration@4fb0f2b9]" started-at="2024-08-21T11:24:26 IST" name="tearDown" finished-at="2024-08-21T11:24:26 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialzedriver()[pri:0, instance:com.hybrid.test.TC_001_AccountRegistration@4fb0f2b9]" started-at="2024-08-21T11:24:26 IST" name="initialzedriver" finished-at="2024-08-21T11:24:56 IST" duration-ms="29445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialzedriver -->
+        <test-method signature="Verify_ValidCredentials()[pri:0, instance:com.hybrid.test.TC_001_AccountRegistration@4fb0f2b9]" started-at="2024-08-21T11:24:56 IST" name="Verify_ValidCredentials" finished-at="2024-08-21T11:24:57 IST" duration-ms="1746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_ValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hybrid.test.TC_001_AccountRegistration@4fb0f2b9]" started-at="2024-08-21T11:24:57 IST" name="tearDown" finished-at="2024-08-21T11:24:58 IST" duration-ms="1123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hybrid.test.TC_001_AccountRegistration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
